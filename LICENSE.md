@@ -1,4 +1,4 @@
-# 
+# 官方 JetBrains Rider 模板 Mac OS版 | 安全 JetBrains Rider 模板 PC Windows版。集成 数据库工具 和 代码审查，跨平台性能最大化。
 
 
 
